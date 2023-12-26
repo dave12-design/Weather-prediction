@@ -2,7 +2,7 @@
 description: Minor Project
 ---
 
-# Weather Forecasting using LoRa and  Machine Learning
+# Weather Forecasting using Machine Learning
 
 ## Introduction
 
